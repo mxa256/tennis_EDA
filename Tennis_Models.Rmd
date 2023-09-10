@@ -1,0 +1,45 @@
+---
+title: "Tennis Modeling: ATP Tour"
+author: "Mona Ascha"
+date: "`Last Edited format(Sys.time(), '%d %B %Y'`"
+output: html_document
+---
+#Load packages
+```{r}
+
+library(Hmisc)
+library(ggplot2)
+library(tidyverse)
+library(knitr)
+library(dplyr)
+library(statsr)
+library(tableone)
+library(forcats)
+library(pander)
+library(dplyr)
+library(neuralnet)
+
+```
+
+#Load data
+```{r}
+
+```
+
+#Model #1: Baseline model
+```{r}
+
+
+```
+
+#Model #2: Model #1 + additional features
+
+```{r}
+
+```
+
+#Model #3: Model #2 + additional match statistics
+
+```{r}
+
+```
